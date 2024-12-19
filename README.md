@@ -1,1 +1,9 @@
 # Project_KB
+
+#Muhammad Alif Risaldy
+
+#F55123055
+
+#Kelas Informatika B
+
+#Projek UAS Kecerdasan Buatan
