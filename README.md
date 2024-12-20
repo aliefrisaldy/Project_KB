@@ -1,9 +1,9 @@
 # Project_KB
 
-#Muhammad Alif Risaldy
+Nama : Muhammad Alif Risaldy
 
-#F55123055
+NIM: F55123055
 
-#Kelas Informatika B
+Kelas : Informatika B
 
 #Projek UAS Kecerdasan Buatan
